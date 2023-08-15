@@ -1,9 +1,9 @@
 # garage-genai-codey
 
 
-This repository is going to be used for the Garage Series on Aug-16th-2023
+This repository is going to be used for the Garage Series on Aug-16th-2023. Refer to this repository for additional Gen AI Contents: https://github.com/themlguy-tf/generative-ai
 
-https://rsvp.withgoogle.com/events/google-garage-generative-ai-applications
+Event Link: https://rsvp.withgoogle.com/events/google-garage-generative-ai-applications
 
 Generative AI: Unleashing AI-powered Applications
 Join the Google Cloud Garage Team for an exciting event, "Generative AI: Unleashing AI-powered Applications." The agenda includes recap sessions about Generative AI on Google Cloud and Gen AI-powered applications with embeddings and vector databases. Participants will also learn about building in minutes using the Gen App Builder, which enables Google-quality search experiences and conversational interactions.
